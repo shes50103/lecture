@@ -6,7 +6,7 @@ gemfile true do
 end
 
 csv = CSV.read('data.csv', headers: true)
-# Q1: 流浪狗(intake_type)以何種品種(breed)居多？何種顏色(color)居多？
+# Q1: 流浪狗(intake_type)以何種品種(breed)居多？
 
 # 塞選
 data_csv = csv.select{|row| row['intake_type']=="Stray" }
