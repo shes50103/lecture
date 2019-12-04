@@ -4,7 +4,7 @@
 - Q3: 年邁的小狗與生病的小狗(`intake_condition`)相較，何者回歸飼主家居多？比例相差多少？
 - Q4: 在Austin動物中心收留時已達5歲(含)以上的小狗，留置在動物中心超過2天者，數量合計為多少？哪一種品種最多？
 
-[講義](https://drive.google.com/file/d/1tkYzYXqgYfUNj70xwU20GTh01MvrPUU3/view)
+[講義](https://drive.google.com/file/d/1n0AnQ9PeVwFOjEstC0pIJSy8lWp39Aw3/view)
 
 [程式操作環境](https://repl.it/repls)
 
