@@ -9,3 +9,5 @@
 [程式操作環境](https://repl.it/repls)
 
 [待分析的資料](https://github.com/shes50103/lecture/blob/master/data.csv)
+
+[第一個範例程式](https://repl.it/@shes50103/NiceAbandonedFan)
