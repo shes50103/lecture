@@ -17,7 +17,7 @@ data_hash = data_csv.group_by{|row| row["breed"]}
 data_array = data_hash.map{|col| [col[0], col[1].count]}
 
 # 排序
-table = TTY::Table.new ['顏色','數量'], data_array.sort_by{|key, value| value}.reverse
+table = TTY::Table.new ['品種','數量'], data_array.sort_by{|key, value| value}.reverse
 
 # 印出
 puts table.render(:ascii)
