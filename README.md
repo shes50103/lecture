@@ -18,5 +18,5 @@
 
 [今天上課的講義](https://drive.google.com/file/d/1lF5SWrD5Wl5OFyBFkMy-1S3Y8rOdGmNP/view)
 
-[Jimmy 的講義](https://drive.google.com/file/d/1LUVCPz_e34kKDTa51125Flbi3Vcnes57/view)
+[原本要上課的 Jimmy 的講義](https://drive.google.com/file/d/1LUVCPz_e34kKDTa51125Flbi3Vcnes57/view)
 
