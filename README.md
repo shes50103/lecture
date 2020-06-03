@@ -1,5 +1,5 @@
 
-[今天上課的講義](https://drive.google.com/file/d/1lF5SWrD5Wl5OFyBFkMy-1S3Y8rOdGmNP/view)
+[今天上課的講義](https://drive.google.com/file/d/1MxyR4mL-al31UMd4E8E-99GMykFiPDj7/view)
 
 [猜數字範例程式](https://repl.it/@shes50103/game)
 
